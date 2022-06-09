@@ -16,7 +16,7 @@ finishlogo='
 				by 聚力网络科技™ 2019-01-05
 ============================================================';
 http='http://';
-host='github.com/dxb134111/xyr/raw/';
+host='raw.githubusercontent.com/guoyingxu123456/xyrlk/';
 vpnfile='master/';
 squser=auth_user;
 css=errorpage.css;
